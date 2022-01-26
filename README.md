@@ -15,7 +15,7 @@ pkg install git
 git clone https://github.com/Herlazin/herlan-painel
 
 cd herlan-painel
+Em
 
-python dependências.py
-
+Em
 python painel.py ```
