@@ -4,7 +4,9 @@
 Em
 um script feito em python para usuários do Termux 
 ```
+pkg install iproute2 -y
 
+pkg install figlet -y
 pkg install python -y 
 
 pkg install git 
